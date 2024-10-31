@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Seminario</string>
+    <string name="hello_world">Hola mundo!</string>
+    <string name="click_me">Haz click</string>
+    <string name="how_are_you">Cómo estás?</string>
+    <string name="red_activity_navigate">Navegar></string>
+</resources>
